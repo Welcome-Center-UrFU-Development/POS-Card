@@ -1,4 +1,4 @@
-class Partner {
+export class Partner {
     static listOfPartners = [];
 
     constructor(data) {

@@ -1,7 +1,10 @@
+
+import {Partner} from "../classes/Partner";
+
 function DataGetter() {
-    const Partner = require('./classes/Partner');
-    const News = require('./classes/News');
-    const User = require('./classes/User');
+    // const Partner = require('./classes/Partner');
+    // const News = require('./classes/News');
+    // const User = require('./classes/User');
     const mysql = require('mysql2');
 
     const connection = mysql.createConnection({

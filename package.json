@@ -17,6 +17,7 @@
   "devDependencies": {
     "@vkontakte/vk-miniapps-deploy": "0.0.17",
     "cross-env": "^5.2.0",
+    "mysql2": "^2.2.5",
     "react-hot-loader": "^4.9.0",
     "react-scripts": "^3.4.1"
   },
